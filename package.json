@@ -1,7 +1,7 @@
 {
   "name": "augmented-reality-business-karten",
   "version": "1.0.0",
-  "description": "Eine Augmented-Reality-Anwendung, die es Benutzern ermöglicht, virtuelle Visitenkarten zu erstellen und anzuzeigen.",
+  "description": "An augmented reality application that allows users to create and display virtual business cards.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
