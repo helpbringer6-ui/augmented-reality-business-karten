@@ -11,5 +11,7 @@
     "body-parser": "^1.19.0",
     "three": "^0.125.0",
     "aframe": "^1.2.0"
-  }
+  },
+  "keywords": ["augmented-reality", "business-cards", "virtual"],
+  "license": "MIT"
 }
